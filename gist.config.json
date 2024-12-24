@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "gistId": "xxx",
+            "fileName": "x.js",
+            "outputDir": "./output1"
+        },
+        {
+            "gistId": "xxx",
+            "fileName": "x.md",
+            "outputDir": "./output2"
+        },
+        {
+            "gistId": "xxx",
+            "fileName": "x.md",
+            "outputDir": "./output3"
+        }
+    ]
+}
