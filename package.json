@@ -26,5 +26,9 @@
   },
   "devDependencies": {
     "@types/node": "^22.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubJiKe/gistolocal.git"
   }
 }
